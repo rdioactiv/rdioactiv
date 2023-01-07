@@ -1,4 +1,4 @@
-...........................................................................[![MasterHead](https://media.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif).....................................................................]
+..................................................................[![MasterHead](https://media.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)................................................................]
 <h1 align="center">Hi 👋, I'm Kevin Joseph</h1>
 <h3 align="center">"I'm ditching my old career for the exciting world of software testing. Wish me luck as I dive headfirst into the deep end of the bug pool."</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
